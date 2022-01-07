@@ -1,0 +1,5 @@
+GitHub on koodimajutusplatvorm versioonikontrolliks ja koostööks.
+See võimaldab teil ja teistel kõikjal projektidega koostööd teha. 
+See õpetus õpetab teile GitHubi põhiteadmisi, nagu hoidlad, harud, sissekanded ja tõmbepäringud.
+Mina isiklikult juba kasutan Githubi õppematerjali salvestamise ja struktureerimise jaoks.
+Gihubi Inc on asutatud 2008 aastal, seda asutasid Tom Preston-Werner, Chris Wanstrath, P. J. Hyett, Scott Chacon.
